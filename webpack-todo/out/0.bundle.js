@@ -1,1 +1,0 @@
-webpackJsonp([0],[,,function(n,o){n.exports=function(n,o){return n+o}},function(n,o,t){var r,c;r=[t(2)],c=function(n){return console.log("1 + 2 = "+n(1,2))}.apply(o,r),!(void 0!==c&&(n.exports=c))}]);
